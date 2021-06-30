@@ -2,5 +2,7 @@
 package com.fm.mavenprojectjenkins;
 
 public class AppCtr {
-    System.out.println("test");
+    public static void main(String[] args) {
+        System.out.println("test2");
+    }
 }
